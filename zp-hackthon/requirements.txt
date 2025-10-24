@@ -1,0 +1,24 @@
+# Web Framework and Extensions
+Flask
+Werkzeug
+flask-login
+flask-caching
+flask-limiter
+Flask-SQLAlchemy
+
+# Database
+SQLAlchemy
+
+# AI and API
+requests
+sseclient-py
+mcp
+httpx
+
+# Utils
+python-dotenv
+pytz
+
+# Development
+black
+flake8
